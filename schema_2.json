@@ -1,0 +1,128 @@
+{
+    "id": {
+        "type": "str",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "nickname": {
+        "type": "str",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "title": {
+        "type": "str",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "accountType": {
+        "type": "str",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "countryCode": {
+        "type": "str",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "orientation": {
+        "type": "str",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "user": {
+        "type": "array",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "time": {
+        "type": "int",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "acl": {
+        "type": "enum",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "publicFeed": {
+        "type": "enum",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "ABCDEFGHIJKLMNOPQRSTUVWXYZA": {
+        "type": "str",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "ABCDEFGHIJKLMNOPQ": {
+        "type": "str",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "ABCDEFGHIJKLMNOPQRSTUVW": {
+        "type": "str",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "ABCDEFGHIJKLMNOPQRSTUVWXY": {
+        "type": "str",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "ABCDEFGHIJK": {
+        "type": "str",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "ABCDEFGHIJKLMNOPQRSTUVWXYZ": {
+        "type": "str",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "ABCDEFGHIJKLMNOPQR": {
+        "type": "str",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "ABCDEFG": {
+        "type": "str",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "ABCDEFGHIJKLM": {
+        "type": "str",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "internationalCountries": {
+        "type": "enum",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "topTraderFeed": {
+        "type": "enum",
+        "tag": "",
+        "description": "",
+        "required": false
+    }
+}
